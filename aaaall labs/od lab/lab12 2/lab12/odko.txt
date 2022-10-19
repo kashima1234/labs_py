@@ -1,0 +1,4 @@
+odko 150 integer
+ppp 34 int
+gggg 34 int
+ppp 34 float

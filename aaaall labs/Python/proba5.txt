@@ -1,0 +1,5 @@
+There is a file 5 containing lines  7 containing Latin letters and numbers. 
+You need to 30 write a function that generates 15 a file 10 in which there will 
+be letters from lines sorted by the sum 27 of the numbers in the source file 
+in this line. And if the line contains only capital letters and numbers, 
+then leave these lines in the places where they were originally.

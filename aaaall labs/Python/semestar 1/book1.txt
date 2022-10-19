@@ -1,0 +1,6 @@
+['Writer', 'Name of the book', 'Date']
+
+Leo Tolstoy, War and Peace, 1869
+Dante Alighieri, Divine Comedy, 1308
+Alexander Pushkin, Eugene Onegin, 1833
+Fyodor Dostoevsky, Crime and Punishment, 1866
